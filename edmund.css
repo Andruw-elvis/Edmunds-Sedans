@@ -121,6 +121,10 @@ body{
     border-radius: 5px;
     display: flex; 
 }
+.button:hover{
+    background-color: #367db7;
+    color: white;
+}
 .up11{
     margin-top: 57px;
     margin-left: 12%;
@@ -198,7 +202,7 @@ body{
     border-right: 1px solid #E6E6E6;
     height: 70px;
     width: 0;
-    margin-top: -14%;
+    margin-top: -16%;
     margin-left: 335px;
 
 }
@@ -731,7 +735,7 @@ table{
     transition: 0.8s;
 }
 .up13 img{
-    width: 99%;
+    width: 100%;
     height: 34vh;
     border-bottom-left-radius: 40px;
     border-top-left-radius: 40px;
@@ -769,7 +773,7 @@ table{
 }
 .up14 h2{
     margin-left: 53%;
-    margin-top: -30px;
+    margin-top: -37px;
     font-family: Georgia;
     font-size: 23px;
 
@@ -785,12 +789,12 @@ table{
     font-family: Georgia;
     margin-left: 53%;
     font-size: 2px medium;
-    margin-top: -17%;
+    margin-top: -16%;
 }
 .up14 h5{
     font-family: Georgia;
     font-size: 12px;
-    margin-top: 26px;
+    margin-top: 34px;
     
 }
 .up14 h6{
@@ -807,7 +811,7 @@ table{
 }
 #h22{
     font-family: Georgia;
-    font-size: 13px;
+    font-size: 12px;
     margin-top: -2px;
     margin-left: 1%;
 }
@@ -820,20 +824,20 @@ table{
 }
 #hw{
   font-family: Georgia;
-    font-size: 13px;  
+    font-size: 12px;  
      margin-left: 1%;
-     margin-top: 17px;
+     margin-top: 13px;
 }
 #hn{
-    font-size: 13px;
+    font-size: 12px;
     margin-left: 75%;
     width: 22%;
     margin-top: -8%;
 }
 .compare{
      margin-left: 67%;
-     font-size: 12px;
-     margin-top: -12px;
+     font-size: 11px;
+     margin-top: -9px;
      width: 36%;
     
 }
@@ -1097,7 +1101,7 @@ button{
     font-weight: bolder;
     margin-left: -2%;
     width: 15%;
-    height: 4.5vh;
+    height: 4.7vh;
     border-bottom-left-radius: -0px;
     border-top-left-radius: -0px;
 }
